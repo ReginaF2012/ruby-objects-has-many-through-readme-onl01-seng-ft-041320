@@ -29,4 +29,8 @@ DEPENDENCIES
   rspec
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.1.4
+=======
+   2.0.1
+>>>>>>> eeb4ed919e528ac6f0f47b7e675f0874c5892e2b
